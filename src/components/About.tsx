@@ -40,7 +40,7 @@ export default function About({ isFullPage = false }: AboutProps) {
           </div>
           <div className="rounded-2xl overflow-hidden shadow-xl h-96 flex items-center justify-center">
             <img
-              src="/image.png"
+              src="https://allphd-griffith-aus.s3.ap-southeast-2.amazonaws.com/standard/d0555daa-72b2-4e64-a0dd-8bcffb0f7ce4.png"
               alt="Dr. Clarence Tan"
               className="w-full h-full object-cover object-top"
             />
